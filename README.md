@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor Matos</h1>
 <h3 align="center">I'm a Software Engineer with expertise in designing and implementing backend architectures and solutions for complex systems. I develope SPA applications with technologies such as Next.js and C# .NET.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*IjwqslkWZDHTMK9Y.gif" </img>
 
 - 📫 How to reach me **vicjose008@gmail.com**
 
