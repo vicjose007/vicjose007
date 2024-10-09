@@ -3,27 +3,20 @@
 <h3 align="left">I'm a Software Engineer with expertise in designing and implementing backend architectures and solutions for complex systems. I develop SPA applications with technologies such as Next.js and C# .NET.</h3>
 
 <p align="left">🌐 Expertise:<br>
-- Angular for sleek and dynamic front-ends<br>
-- Node.js for scalable server-side applications<br>
-- .NET Core for robust and high-performance backends<br>
+  - Designing and implementing backend architectures<br>
+  - .NET Core for robust and high-performance backends<br>
 </p>
 
 <p align="left">📖 Currently Learning:<br>
-- Mastering the art of Software Architecture to design efficient and scalable systems.<br>
+  - Mastering the art of Software Architecture to design efficient and scalable systems.<br>
 </p>
 
 <p align="left">🔌 Enthusiast:<br>
-- Deep diving into the world of IoT with Arduino and electronics. Connecting the physical and digital worlds excites me!<br>
+  - Deep diving into the world of IoT with Arduino and electronics. Connecting the physical and digital worlds excites me!<br>
 </p>
 
 <p align="left">🎉 Fun Fact:<br>
-- I’m a tech explorer who loves tinkering with gadgets and pushing the boundaries of what's possible.<br>
-</p>
-
-<p align="left">📬 Contact Me:<br>
-- LinkedIn<br>
-- Gmail<br>
-- CV<br>
+  - I’m a tech explorer who loves tinkering with gadgets and pushing the boundaries of what's possible.<br>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicjose007&label=Profile%20views&color=0e75b6&style=flat" alt="vicjose007" /> </p>
